@@ -1,0 +1,101 @@
+{
+  "nodes": [
+
+    {
+      "match": 1.0,
+      "name": "ICIX",
+      "artist": "You",
+      "id": "ICIX",
+      "playcount": 9999999
+    },
+    {
+      "match": 0.932114,
+      "name": "LIDl",
+      "artist": "Admine",
+      "id": "graceland_paul_simon",
+      "playcount": 50000
+    },
+    {
+      "match": 0.203092,
+      "name": "TP18",
+      "artist": "Preparation",
+      "id": "bnonn1",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.232233,
+      "name": "TP17",
+      "artist": "Preparation",
+      "id": "bnonn2",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.13233,
+      "name": "TP37",
+      "artist": "Preparation",
+      "id": "bnonn3",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.33233,
+      "name": "TP36",
+      "artist": "Preparation",
+      "id": "bnonn4",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.33233,
+      "name": "TP42",
+      "artist": "Preparation",
+      "id": "bnonn5",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.203092,
+      "name": "TP18",
+      "artist": "Preparation",
+      "id": "bnonn6",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.232233,
+      "name": "TP17",
+      "artist": "Preparation",
+      "id": "bnonn7",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.13233,
+      "name": "TP37",
+      "artist": "Preparation",
+      "id": "bnonn8",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.33233,
+      "name": "TP36",
+      "artist": "Preparation",
+      "id": "bnonn9",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.33233,
+      "name": "TP42",
+      "artist": "Preparation",
+      "id": "bnonn10",
+      "playcount": 2525252
+    }
+
+
+
+  ],
+  "links": [
+
+    {
+      "source": "graceland_paul_simon",
+      "target": "ICIX"
+    }
+
+
+  ]
+}

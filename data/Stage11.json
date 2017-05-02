@@ -1,0 +1,238 @@
+{
+  "nodes": [
+
+    {
+      "match": 1.0,
+      "name": "ICIX",
+      "artist": "You",
+      "id": "ICIX",
+      "playcount": 9999999
+    },
+    {
+      "match": 0.083814,
+      "name": "LIDI",
+      "artist": "Admine",
+      "id": "graceland_paul_simon",
+      "playcount": 6666666
+    },
+    {
+      "match": 0.096092,
+      "name": "TP28",
+      "artist": "Activated",
+      "id": "Holo1",
+      "playcount": 7575757
+    },
+    {
+      "match": 0.02433,
+      "name": "TP03",
+      "artist": "Activated",
+      "id": "Aman1",
+      "playcount": 7575757
+    },
+    {
+      "match": 0.030719,
+      "name": "TP04",
+      "artist": "Activated",
+      "id": "ava1",
+      "playcount": 7575757
+    },
+    {
+      "match": 0.055606,
+      "name": "TP49",
+      "artist": "Activated",
+      "id": "oma1",
+      "playcount": 7575757
+    },
+    {
+      "match": 0.056477,
+      "name": "TP53",
+      "artist": "Activated",
+      "id": "opra1",
+      "playcount": 7575757
+    },
+    {
+      "match": 0.056316,
+      "name": "TP54",
+      "artist": "Activated",
+      "id": "eva1",
+      "playcount": 7575757
+    },
+    {
+      "match": 0.096092,
+      "name": "TP28",
+      "artist": "Activated",
+      "id": "eva2",
+      "playcount": 7575757
+    },
+    {
+      "match": 0.02433,
+      "name": "TP03",
+      "artist": "Activated",
+      "id": "eva3",
+      "playcount": 7575757
+    },
+    {
+      "match": 0.030719,
+      "name": "TP04",
+      "artist": "Activated",
+      "id": "eva4",
+      "playcount": 7575757
+    },
+    {
+      "match": 0.055606,
+      "name": "TP49",
+      "artist": "Activated",
+      "id": "eva5",
+      "playcount": 7575757
+    },
+    {
+      "match": 0.056477,
+      "name": "TP53",
+      "artist": "Activated",
+      "id": "eva6",
+      "playcount": 7575757
+    },
+    {
+      "match": 0.056316,
+      "name": "TP54",
+      "artist": "Activated",
+      "id": "eva7",
+      "playcount": 7575757
+    },
+    {
+      "match": 0.056316,
+      "name": "TP54",
+      "artist": "Activated",
+      "id": "eva8",
+      "playcount": 7575757
+    },
+    {
+      "match": 0.196092,
+      "name": "TP28",
+      "artist": "Activated",
+      "id": "eva9",
+      "playcount": 7575757
+    },
+    {
+      "match": 0.112433,
+      "name": "TP03",
+      "artist": "Activated",
+      "id": "eva10",
+      "playcount": 7575757
+    },
+    {
+      "match": 0.130719,
+      "name": "TP04",
+      "artist": "Activated",
+      "id": "eva11",
+      "playcount": 7575757
+    },
+    {
+      "match": 0.155606,
+      "name": "TP49",
+      "artist": "Activated",
+      "id": "eva12",
+      "playcount": 7575757
+    },
+    {
+      "match": 0.156477,
+      "name": "TP53",
+      "artist": "Activated",
+      "id": "eva13",
+      "playcount": 7575757
+    },
+    {
+      "match": 0.156316,
+      "name": "TP54",
+      "artist": "Activated",
+      "id": "eva14",
+      "playcount": 7575757
+    }
+
+  ],
+  "links": [
+
+    {
+      "source": "graceland_paul_simon",
+      "target": "ICIX"
+    },
+    {
+      "source": "Aman1",
+      "target": "graceland_paul_simon"
+    },
+    {
+      "source": "Holo1",
+      "target": "graceland_paul_simon"
+    },
+    {
+      "source": "oma1",
+      "target": "graceland_paul_simon"
+    },
+    {
+      "source": "ava1",
+      "target": "graceland_paul_simon"
+    },
+    {
+      "source": "opra1",
+      "target": "graceland_paul_simon"
+    },
+    {
+      "source": "eva1",
+      "target": "graceland_paul_simon"
+    },
+    {
+      "source": "eva2",
+      "target": "graceland_paul_simon"
+    },
+    {
+      "source": "eva3",
+      "target": "graceland_paul_simon"
+    },
+    {
+      "source": "eva4",
+      "target": "graceland_paul_simon"
+    },
+    {
+      "source": "eva5",
+      "target": "graceland_paul_simon"
+    },
+    {
+      "source": "eva6",
+      "target": "graceland_paul_simon"
+    },
+    {
+      "source": "eva7",
+      "target": "graceland_paul_simon"
+    },
+    {
+      "source": "eva8",
+      "target": "graceland_paul_simon"
+    },
+    {
+      "source": "eva9",
+      "target": "graceland_paul_simon"
+    },
+    {
+      "source": "eva10",
+      "target": "graceland_paul_simon"
+    },
+    {
+      "source": "eva11",
+      "target": "graceland_paul_simon"
+    },
+    {
+      "source": "eva12",
+      "target": "graceland_paul_simon"
+    },
+    {
+      "source": "eva13",
+      "target": "graceland_paul_simon"
+    },
+    {
+      "source": "eva14",
+      "target": "graceland_paul_simon"
+    }
+
+
+  ]
+}

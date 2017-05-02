@@ -1,0 +1,85 @@
+{
+  "nodes": [
+
+    {
+      "match": 1.0,
+      "name": "ICIX",
+      "artist": "You",
+      "id": "ICIX",
+      "playcount": 9999999
+    },
+    {
+      "match": 0.932114,
+      "name": "LIDI",
+      "artist": "Admine",
+      "id": "graceland_paul_simon",
+      "playcount": 5252522
+    },
+    {
+      "match": 0.193092,
+      "name": "TP19",
+      "artist": "Activated",
+      "id": "enonn1",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.12233,
+      "name": "TP20",
+      "artist": "Activated",
+      "id": "enonn2",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.13233,
+      "name": "TP38",
+      "artist": "Activated",
+      "id": "enonn3",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.13233,
+      "name": "TP41",
+      "artist": "Activated",
+      "id": "enonn4",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.11233,
+      "name": "TP41",
+      "artist": "Activated",
+      "id": "enonn5",
+      "playcount": 2525252
+    }
+
+
+
+  ],
+  "links": [
+
+    {
+      "source": "graceland_paul_simon",
+      "target": "ICIX"
+    },
+    {
+      "source": "enonn1",
+      "target": "graceland_paul_simon"
+    },
+    {
+      "source": "enonn2",
+      "target": "graceland_paul_simon"
+    },
+    {
+      "source": "enonn3",
+      "target": "graceland_paul_simon"
+    },
+    {
+      "source": "enonn4",
+      "target": "graceland_paul_simon"
+    },
+    {
+      "source": "enonn5",
+      "target": "graceland_paul_simon"
+    }
+
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "nodes": [
+
+    {
+      "match": 1.0,
+      "name": "ICIX",
+      "artist": "You",
+      "id": "ICIX",
+      "playcount": 9999999
+    },
+    {
+      "match": 0.932114,
+      "name": "LIDl",
+      "artist": "Admine",
+      "id": "graceland_paul_simon",
+      "playcount": 5252522
+    },
+    {
+      "match": 0.293092,
+      "name": "TP23",
+      "artist": "Acceptance",
+      "id": "non1",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.32233,
+      "name": "TP24",
+      "artist": "Acceptance",
+      "id": "non2",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.23233,
+      "name": "TP39",
+      "artist": "Acceptance",
+      "id": "non3",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.293092,
+      "name": "TP23",
+      "artist": "Acceptance",
+      "id": "non4",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.32233,
+      "name": "TP24",
+      "artist": "Acceptance",
+      "id": "non5",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.23233,
+      "name": "TP39",
+      "artist": "Acceptance",
+      "id": "non6",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.293092,
+      "name": "TP23",
+      "artist": "Acceptance",
+      "id": "non7",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.32233,
+      "name": "TP24",
+      "artist": "Acceptance",
+      "id": "non8",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.23233,
+      "name": "TP39",
+      "artist": "Acceptance",
+      "id": "non9",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.293092,
+      "name": "TP23",
+      "artist": "Acceptance",
+      "id": "non10",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.32233,
+      "name": "TP24",
+      "artist": "Acceptance",
+      "id": "non11",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.23233,
+      "name": "TP39",
+      "artist": "Acceptance",
+      "id": "non12",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.293092,
+      "name": "TP23",
+      "artist": "Acceptance",
+      "id": "non13",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.32233,
+      "name": "TP24",
+      "artist": "Acceptance",
+      "id": "non14",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.23233,
+      "name": "TP39",
+      "artist": "Acceptance",
+      "id": "non15",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.293092,
+      "name": "TP23",
+      "artist": "Acceptance",
+      "id": "non16",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.32233,
+      "name": "TP24",
+      "artist": "Acceptance",
+      "id": "non17",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.23233,
+      "name": "TP39",
+      "artist": "Acceptance",
+      "id": "non18",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.293092,
+      "name": "TP23",
+      "artist": "Acceptance",
+      "id": "non19",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.32233,
+      "name": "TP24",
+      "artist": "Acceptance",
+      "id": "non20",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.23233,
+      "name": "TP39",
+      "artist": "Acceptance",
+      "id": "non21",
+      "playcount": 2525252
+    },{
+      "match": 0.293092,
+      "name": "TP23",
+      "artist": "Acceptance",
+      "id": "non22",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.32233,
+      "name": "TP24",
+      "artist": "Acceptance",
+      "id": "non23",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.23233,
+      "name": "TP39",
+      "artist": "Acceptance",
+      "id": "non24",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.293092,
+      "name": "TP23",
+      "artist": "Acceptance",
+      "id": "non25",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.32233,
+      "name": "TP24",
+      "artist": "Acceptance",
+      "id": "non26",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.23233,
+      "name": "TP39",
+      "artist": "Acceptance",
+      "id": "non27",
+      "playcount": 2525252
+    }
+
+
+  ],
+  "links": [
+
+    {
+      "source": "graceland_paul_simon",
+      "target": "ICIX"
+    }
+
+
+
+  ]
+}

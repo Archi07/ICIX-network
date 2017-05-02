@@ -1,0 +1,95 @@
+{
+  "nodes": [
+
+    {
+      "match": 1.0,
+      "name": "ICIX",
+      "artist": "You",
+      "id": "ICIX",
+      "playcount": 9999999
+    },
+    {
+      "match": 0.932114,
+      "name": "LIDl",
+      "artist": "Admine",
+      "id": "graceland_paul_simon",
+      "playcount": 5252522
+    },
+    {
+      "match": 0.293092,
+      "name": "TP21",
+      "artist": "Validation",
+      "id": "nonn1",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.32233,
+      "name": "TP22",
+      "artist": "Validation",
+      "id": "nonn2",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.23233,
+      "name": "TP40",
+      "artist": "Validation",
+      "id": "nonn3",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.293092,
+      "name": "TP21",
+      "artist": "Validation",
+      "id": "nonn4",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.32233,
+      "name": "TP22",
+      "artist": "Validation",
+      "id": "nonn5",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.23233,
+      "name": "TP40",
+      "artist": "Validation",
+      "id": "nonn6",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.293092,
+      "name": "TP21",
+      "artist": "Validation",
+      "id": "nonn7",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.32233,
+      "name": "TP22",
+      "artist": "Validation",
+      "id": "nonn8",
+      "playcount": 2525252
+    },
+    {
+      "match": 0.23233,
+      "name": "TP40",
+      "artist": "Validation",
+      "id": "nonn9",
+      "playcount": 2525252
+    }
+
+
+
+  ],
+  "links": [
+
+    {
+      "source": "graceland_paul_simon",
+      "target": "ICIX"
+    }
+
+
+
+  ]
+}

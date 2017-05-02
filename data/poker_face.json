@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "match": 1.0,
+      "name": "ICIX",
+      "artist": "You",
+      "id": "ICIX",
+      "playcount": 9999999
+    },
+    {
+      "match": 0.983114,
+      "name": "LIDI",
+      "artist": "Admine",
+      "id": "graceland_paul_simon",
+      "playcount": 7878787
+    },
+    {
+      "match": 0.848903,
+      "name": "TP1",
+      "artist": "Stage 12",
+      "id": "paparazzi_lady_gaga",
+      "playcount": 8888888
+    },
+    {
+      "match": 0.93449,
+      "name": "TP2",
+      "artist": "Stage 12",
+      "id": "bad_romance_lady_gaga",
+      "playcount": 8888888
+    },
+    {
+      "match": 0.304689,
+      "name": "TP3",
+      "artist": "Stage 12",
+      "id": "tik_tok_keha",
+      "playcount": 8888888
+    },
+    {
+      "match": 0.220354,
+      "name": "TP4",
+      "artist": "Stage 12",
+      "id": "not_myself_tonight_christina_aguilera",
+      "playcount": 8888888
+    },
+    {
+      "match": 0.205395,
+      "name": "TP5",
+      "artist": "Stage 12",
+      "id": "mirrors_natalia_kills",
+      "playcount": 8888888
+    },
+    {
+      "match": 0.201188,
+      "name": "TP6",
+      "artist": "Stage 12",
+      "id": "sorry_madonna",
+      "playcount": 8888888
+    }
+
+
+  ],
+  "links": [
+    {
+      "source": "ICIX",
+      "target": "graceland_paul_simon"
+    },
+
+    {
+      "source": "bad_romance_lady_gaga",
+      "target": "graceland_paul_simon"
+    },
+    {
+      "source": "paparazzi_lady_gaga",
+      "target": "graceland_paul_simon"
+    },
+    {
+      "source": "bad_romance_lady_gaga",
+      "target": "graceland_paul_simon"
+    },
+    {
+      "source": "tik_tok_keha",
+      "target": "graceland_paul_simon"
+    },
+    {
+      "source": "not_myself_tonight_christina_aguilera",
+      "target": "graceland_paul_simon"
+    },
+    {
+      "source": "mirrors_natalia_kills",
+      "target": "graceland_paul_simon"
+    },
+    {
+      "source": "sorry_madonna",
+      "target": "graceland_paul_simon"
+    }
+
+
+  ]
+}

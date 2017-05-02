@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "match": 1.0,
+      "name": "ICIX",
+      "artist": "You",
+      "id": "ICIX",
+      "playcount": 9999999
+    },
+    {
+      "match": 0.983114,
+      "name": "LIDI",
+      "artist": "Admine",
+      "id": "graceland_paul_simon",
+      "playcount": 7878787
+    },
+    {
+      "match": 0.296092,
+      "name": "TP94",
+      "artist": "Stage 12",
+      "id": "Holo",
+      "playcount": 7575757
+    },
+    {
+      "match": 0.12433,
+      "name": "TP95",
+      "artist": "Stage 12",
+      "id": "Aman",
+      "playcount": 7575757
+    },
+    {
+      "match": 0.30719,
+      "name": "TP96",
+      "artist": "Stage 12",
+      "id": "ava",
+      "playcount": 7575757
+    },
+    {
+      "match": 0.55606,
+      "name": "TP97",
+      "artist": "Stage 12",
+      "id": "oma",
+      "playcount": 7575757
+    },
+    {
+      "match": 0.556477,
+      "name": "TP98",
+      "artist": "Stage 12",
+      "id": "opra",
+      "playcount": 7575757
+    },
+    {
+      "match": 0.556316,
+      "name": "TP99",
+      "artist": "Stage 12",
+      "id": "eva",
+      "playcount": 7575757
+    }
+
+
+  ],
+  "links": [
+    {
+      "source": "graceland_paul_simon",
+      "target": "ICIX"
+    },
+    {
+      "source": "Aman",
+      "target": "graceland_paul_simon"
+    },
+    {
+      "source": "Holo",
+      "target": "graceland_paul_simon"
+    },
+
+    {
+      "source": "oma",
+      "target": "graceland_paul_simon"
+    },
+
+    {
+      "source": "ava",
+      "target": "graceland_paul_simon"
+    },
+    {
+      "source": "opra",
+      "target": "graceland_paul_simon"
+    },
+
+    {
+      "source": "eva",
+      "target": "graceland_paul_simon"
+    }
+
+
+  ]
+}

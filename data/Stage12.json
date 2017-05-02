@@ -1,0 +1,168 @@
+{
+  "nodes": [
+
+    {
+      "match": 1.0,
+      "name": "ICIX",
+      "artist": "You",
+      "id": "ICIX",
+      "playcount": 9999999
+    },
+    {
+      "match": 0.983114,
+      "name": "LIDI",
+      "artist": "Admine",
+      "id": "graceland_paul_simon",
+      "playcount": 6666666
+    },
+    {
+      "match": 0.296092,
+      "name": "TP94",
+      "artist": "Activated",
+      "id": "Holo",
+      "playcount": 8888888
+    },
+    {
+      "match": 0.12433,
+      "name": "TP95",
+      "artist": "Activated",
+      "id": "Aman",
+      "playcount": 8888888
+    },
+    {
+      "match": 0.30719,
+      "name": "TP96",
+      "artist": "Activated",
+      "id": "ava",
+      "playcount": 8888888
+    },
+    {
+      "match": 0.55606,
+      "name": "TP97",
+      "artist": "Activated",
+      "id": "oma",
+      "playcount": 8888888
+    },
+    {
+      "match": 0.556477,
+      "name": "TP98",
+      "artist": "Activated",
+      "id": "opra",
+      "playcount": 8888888
+    },
+    {
+      "match": 0.556316,
+      "name": "TP99",
+      "artist": "Activated",
+      "id": "eva",
+      "playcount": 8888888
+    },
+    {
+      "match": 0.296092,
+      "name": "TP94",
+      "artist": "Activated",
+      "id": "Holoa",
+      "playcount": 8888888
+    },
+    {
+      "match": 0.12433,
+      "name": "TP95",
+      "artist": "Activated",
+      "id": "Amana",
+      "playcount": 8888888
+    },
+    {
+      "match": 0.30719,
+      "name": "TP96",
+      "artist": "Activated",
+      "id": "avaa",
+      "playcount": 8888888
+    },
+    {
+      "match": 0.55606,
+      "name": "TP97",
+      "artist": "Activated",
+      "id": "omaa",
+      "playcount": 8888888
+    },
+    {
+      "match": 0.556477,
+      "name": "TP98",
+      "artist": "Activated",
+      "id": "opraa",
+      "playcount": 8888888
+    },
+    {
+      "match": 0.556316,
+      "name": "TP99",
+      "artist": "Activated",
+      "id": "evaa",
+      "playcount": 8888888
+    }
+
+
+  ],
+  "links": [
+
+    {
+      "source": "graceland_paul_simon",
+      "target": "ICIX"
+    },
+    {
+      "source": "Aman",
+      "target": "graceland_paul_simon"
+    },
+    {
+      "source": "Holo",
+      "target": "graceland_paul_simon"
+    },
+
+    {
+      "source": "oma",
+      "target": "graceland_paul_simon"
+    },
+
+    {
+      "source": "ava",
+      "target": "graceland_paul_simon"
+    },
+    {
+      "source": "opra",
+      "target": "graceland_paul_simon"
+    },
+
+    {
+      "source": "eva",
+      "target": "graceland_paul_simon"
+    },
+    {
+      "source": "Amana",
+      "target": "graceland_paul_simon"
+    },
+    {
+      "source": "Holoa",
+      "target": "graceland_paul_simon"
+    },
+
+    {
+      "source": "omaa",
+      "target": "graceland_paul_simon"
+    },
+
+    {
+      "source": "avaa",
+      "target": "graceland_paul_simon"
+    },
+    {
+      "source": "opraa",
+      "target": "graceland_paul_simon"
+    },
+
+    {
+      "source": "evaa",
+      "target": "graceland_paul_simon"
+    }
+
+
+  ]
+}
